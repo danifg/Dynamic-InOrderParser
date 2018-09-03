@@ -1,7 +1,7 @@
 # Dynamic In-Order Parser
-This repository includes the code of the in-order parser trained with a dynamic oracle described in EMNLP paper [Dynamic Oracles for Top-Down and In-Order Shift-Reduce Constituent Parsing](https://arxiv.org/pdf/1710.09340.pdf). The implementation is based on the in-order parser (https://github.com/LeonCrashCode/InOrderParser) and reuses part of its code, including data preparation and evaluating scripts.
+This repository includes the code of the in-order parser trained with a dynamic oracle described in EMNLP paper [Dynamic Oracles for Top-Down and In-Order Shift-Reduce Constituent Parsing](https://github.com/danifg/Dynamic-InOrderParser). The implementation is based on the in-order parser (https://github.com/LeonCrashCode/InOrderParser) and reuses part of its code, including data preparation and evaluating scripts.
 
-This implementation requires the [cnn library](https://github.com/clab/cnn-v1) and you can find pretrained word embeddings for English and Chinese in (https://github.com/LeonCrashCode/InOrderParser). 
+This implementation requires the [cnn library](https://github.com/clab/cnn-v1) and you can find pretrained word embeddings for English and Chinese in https://github.com/LeonCrashCode/InOrderParser. 
 
 ## Building
 The boost version is 1.5.4.
@@ -32,5 +32,4 @@ You could use the scripts to convert the format of training, development and tes
 
 The automatically generated file test.eval is the result file.
 
-####More information
-For more information, please visit (https://github.com/LeonCrashCode/InOrderParser).
+For more information, please visit https://github.com/LeonCrashCode/InOrderParser.
