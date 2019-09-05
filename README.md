@@ -33,3 +33,17 @@ You could use the scripts to convert the format of training, development and tes
 The automatically generated file test.eval is the result file.
 
 For more information, please visit https://github.com/LeonCrashCode/InOrderParser.
+
+## Citation
+    @inproceedings{fernandez-gonzalez-gomez-rodriguez-2018-dynamic,
+        title = "Dynamic Oracles for Top-Down and In-Order Shift-Reduce Constituent Parsing",
+        author = "Fern{\'a}ndez-Gonz{\'a}lez, Daniel  and G{\'o}mez-Rodr{\'\i}guez, Carlos",
+        booktitle = "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+        month = oct # "-" # nov,
+        year = "2018",
+        address = "Brussels, Belgium",
+        publisher = "Association for Computational Linguistics",
+        url = "https://www.aclweb.org/anthology/D18-1161",
+        doi = "10.18653/v1/D18-1161",
+        pages = "1303--1313"    
+    }
